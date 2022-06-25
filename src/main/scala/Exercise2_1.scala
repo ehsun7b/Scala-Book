@@ -2,7 +2,7 @@ import scala.annotation.tailrec
 
 object Exercise2_1 {
 
-  @main def main(): Unit = {
+  def main(): Unit = {
     println(fibonacci(0))
     println(fibonacci(1))
     println(fibonacci(2))
